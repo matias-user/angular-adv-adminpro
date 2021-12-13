@@ -7,6 +7,6 @@ import { Component } from '@angular/core';
 })
 export class NopagefoundComponent {
 
-  anioActual: Date = new Date();
+  // anioActual: Date = new Date();
 
 }
